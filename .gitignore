@@ -1,6 +1,9 @@
 .mvn
 mvnw
 mvwn.cmd
+test/*
+main/resources/*
+
 
 HELP.md
 target/
